@@ -7,7 +7,6 @@ An exapmle OAUTH2 implementation of singly with mulitple services
 
 
 ```bash
-lein deps
 SINGLY_CLIENT_SECRET=your_secret SINGLY_CLIENT_ID=your_id lein run
 
 ```

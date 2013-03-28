@@ -1,0 +1,7 @@
+pom.xml
+.lein-repl-history
+*jar
+/lib/
+/classes/
+.lein-deps-sum
+.cake
